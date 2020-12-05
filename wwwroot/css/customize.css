@@ -1,0 +1,19 @@
+﻿footer.page-footer .footer-copyright {
+    overflow: hidden;
+    color: rgba(255,255,255,0.6);
+    background-color: rgba(0,0,0,0.2);
+}
+
+footer.page-footer {
+    bottom: 0;
+    color: #fff;
+}
+
+.font-small {
+    font-size: .9rem;
+}
+
+.blue {
+    background-color: #2196f3 !important;
+}
+
